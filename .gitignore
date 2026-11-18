@@ -1,0 +1,14 @@
+# .NET
+[Dd]ebug/
+[Rr]elease/
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.log
+.vs/
+
+# 系统文件
+.DS_Store
+Thumbs.db
